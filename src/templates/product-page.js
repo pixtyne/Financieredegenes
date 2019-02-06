@@ -37,7 +37,7 @@ export const ProductPageTemplate = ({
                 <h2
                   className="has-text-weight-bold is-size-1"
                   style={{
-                    color: 'white',
+                    color: 'black',
                     padding: '1rem',
                   }}
                 >
