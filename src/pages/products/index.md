@@ -15,39 +15,22 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/illu-site-02.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus, sit amet hendrerit erat convallis quis. Etiam faucibus bibendum imperdiet. Sed nisi est, bibendum vitae auctor sed, tristique venenatis neque. Cras egestas nisi vel diam imperdiet, blandit aliquam leo gravida. Phasellus non malesuada nulla. Nunc pharetra lacus ut enim ultrices, sed auctor eros ullamcorper. Nam semper ex a eros commodo convallis.
+    - image: /img/illu-site-03.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Morbi et mattis leo, quis sodales leo. Aliquam quis quam at massa dignissim aliquam. Nam quis neque at elit consectetur elementum a quis nisi. Nam quis purus condimentum, aliquam neque eget, ultricies magna. Ut tristique non risus ut porttitor. Duis aliquam vulputate mauris, at fringilla elit feugiat id. Nulla facilisis accumsan semper. Donec tincidunt rutrum nibh ut eleifend. Nullam eget molestie est. Duis molestie leo lorem, in tristique nibh vulputate eget. Vestibulum malesuada et diam in ultricies. Integer id dignissim elit
+    - image: /img/illu-site-04.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus, sit amet hendrerit erat convallis quis. Etiam faucibus bibendum imperdiet. Sed nisi est, bibendum vitae auctor sed, tristique venenatis neque. Cras egestas nisi vel diam imperdiet, blandit aliquam leo gravida. Phasellus non malesuada nulla. Nunc pharetra lacus ut enim ultrices, sed auctor eros ullamcorper. Nam semper ex a eros commodo convallis.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus, sit amet hendrerit erat convallis quis. Etiam faucibus bibendum imperdiet. Sed nisi est, bibendum vitae auctor sed, tristique venenatis neque. Cras egestas nisi vel diam imperdiet, blandit aliquam leo gravida. Phasellus non malesuada nulla. Nunc pharetra lacus ut enim ultrices, sed auctor eros ullamcorper. Nam semper ex a eros commodo convallis.
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus, sit amet hendrerit erat convallis quis. Etiam faucibus bibendum imperdiet. Sed nisi est, bibendum vitae auctor sed, tristique venenatis neque. Cras egestas nisi vel diam imperdiet, blandit aliquam leo gravida. Phasellus non malesuada nulla. Nunc pharetra lacus ut enim ultrices, sed auctor eros ullamcorper. Nam semper ex a eros commodo convallis.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
