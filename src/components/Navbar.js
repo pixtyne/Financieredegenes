@@ -49,6 +49,9 @@ const Navbar = class extends React.Component {
         <Link className="navbar-item" to="/products">
           Financière de Gènes
         </Link>
+        <Link className="navbar-item" to="/">
+          Actu
+        </Link>
         <Link className="navbar-item" to="/about">
           à propos
         </Link>
