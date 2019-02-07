@@ -32,50 +32,46 @@ main:
   description: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus, sit amet hendrerit erat convallis quis. Etiam faucibus bibendum imperdiet. Sed nisi est, bibendum vitae auctor sed, tristique venenatis neque. Cras egestas nisi vel diam imperdiet, blandit aliquam leo gravida. Phasellus non malesuada nulla. Nunc pharetra lacus ut enim ultrices, sed auctor eros ullamcorper. Nam semper ex a eros commodo convallis.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Offres
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus.
+  plans: En savoir plus
+    - description: Lorem ipsum dolor sit amet.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      plan: En savoir plus
+      price: 'Voir'
+    - description: 'Maecenas posuere placerat purus'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      plan: En savoir plus
+      price: 'Voir'
+    - description: Maecenas posuere placerat purus
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: 'Voir'
 ---
