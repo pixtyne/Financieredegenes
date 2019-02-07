@@ -50,7 +50,7 @@ const Navbar = class extends React.Component {
           Products
         </Link>
         <Link className="navbar-item" to="/about">
-          About
+          à propos
         </Link>
         <Link className="navbar-item" to="/contact">
           Contact
