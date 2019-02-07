@@ -51,27 +51,27 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Offres
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus.
-  plans: En savoir plus
-    - description: Lorem ipsum dolor sit amet.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus, sit amet hendrerit erat convallis quis. Etiam faucibus bibendum imperdiet.
+  plans:
+    - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: En savoir plus
+      plan: Lorem
       price: 'Voir'
-    - description: 'Maecenas posuere placerat purus'
+    - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: En savoir plus
+      plan: Lorem
       price: 'Voir'
-    - description: Maecenas posuere placerat purus
+    - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Lorem
       price: 'Voir'
 ---
