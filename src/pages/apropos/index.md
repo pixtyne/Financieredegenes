@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /about
+path: /apropos
 title: About our values
 ---
 ### LALALALAL
