@@ -34,8 +34,8 @@ const Navbar = class extends React.Component {
   <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
     <div className="container">
       <div className="navbar-brand">
-        <Link to="/products" className="navbar-item" title="Logo">
-          <img src={logo} alt="Kaldi" style={{ width: '200px' }} />
+        <Link to="/products" title="Logo">
+          <img src={logo} alt="Kaldi" style={{ width: '340px' }} />
         </Link>
         {/* Hamburger menu */}
         <div className="navbar-burger burger" data-target="navMenu">
@@ -58,14 +58,11 @@ const Navbar = class extends React.Component {
         <Link className="navbar-item" to="/contact">
           Contact
         </Link>
-        <Link className="navbar-item" to="/contact/examples">
-          Exemples
-        </Link>
       </div>
       <div className="navbar-end has-text-centered">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://elegant-bardeen-6ba400.netlify.com/admin/"
           target="_blank"
           rel="noopener noreferrer"
         >
