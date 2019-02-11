@@ -6,6 +6,7 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import { Player } from '../components/video-react';
 
 export const ProductPageTemplate = ({
   image,
@@ -45,16 +46,19 @@ export const ProductPageTemplate = ({
                 </h2>
               </div>
               <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-2">
+                <div className="column is-3">
+                  <h3 className="has-text-weight-semibold is-size-1">
                     {heading}
+                  </h3>
+                  <h3 className="has-text-weight-semibold is-size-3">
+                    {main.heading}
                   </h3>
                   <p>{description}</p>
                 </div>
               </div>
               <Features gridItems={intro.blurbs} />
               <div className="columns">
-                <div className="column is-7">
+                <div className="column is-2">
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
