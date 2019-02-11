@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title:
-image: /img/home.jpg
+image: /img/home2.jpg
 heading: Gestion de patrimoine
 description: >-
   Has autem provincias, quas Orontes ambiens amnis imosque pedes Cassii montis illius celsi praetermeans funditur in Parthenium mare, Gnaeus Pompeius superato Tigrane regnis Armeniorum abstractas dicioni Romanae coniunxit.
