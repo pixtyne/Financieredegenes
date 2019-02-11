@@ -46,7 +46,7 @@ export const ProductPageTemplate = ({
                 </h2>
               </div>
               <div className="columns">
-                <div className="column is-5">
+                <div className="column is-10">
                   <h3 className="has-text-weight-semibold is-size-1">
                     {heading}
                   </h3>
@@ -58,7 +58,7 @@ export const ProductPageTemplate = ({
               </div>
               <Features gridItems={intro.blurbs} />
               <div className="columns">
-                <div className="column is-5">
+                <div className="column is-10">
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
