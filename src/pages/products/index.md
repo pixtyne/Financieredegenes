@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Gestion de patrimoine
-image: /img/home.jpg
+Player: /img/background.mp4
 heading: Testttt
 description: >-
   Has autem provincias, quas Orontes ambiens amnis imosque pedes Cassii montis illius celsi praetermeans funditur in Parthenium mare, Gnaeus Pompeius superato Tigrane regnis Armeniorum abstractas dicioni Romanae coniunxit.
@@ -47,7 +47,7 @@ testimonials:
   - author: Philipp Trommler
     quote: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas posuere placerat purus.
-full_image: /img/products-full-width.jpg
+full_image: /img/background.mp4
 pricing:
   heading: Offres
   description: >-
@@ -59,19 +59,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Lorem
-      price: 'Voir'
+      price: ''
     - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Lorem
-      price: 'Voir'
+      price: ''
     - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Lorem
-      price: 'Voir'
+      price: ''
 ---
