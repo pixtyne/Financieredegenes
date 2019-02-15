@@ -8,7 +8,7 @@ import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import { Player } from '../components/video-react';
 
-export const ProductPageTemplate = ({
+export const HomePageTemplate = ({
   image,
   title,
   heading,
@@ -110,7 +110,7 @@ export const ProductPageTemplate = ({
   </section>
 )
 
-ProductPageTemplate.propTypes = {
+HomePageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -134,12 +134,12 @@ ProductPageTemplate.propTypes = {
   }),
 }
 
-const ProductPage = ({ data }) => {
+const HomePage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
-      <ProductPageTemplate
+      <HomePageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
@@ -154,7 +154,7 @@ const ProductPage = ({ data }) => {
   )
 }
 
-ProductPage.propTypes = {
+HomePage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -162,10 +162,10 @@ ProductPage.propTypes = {
   }),
 }
 
-export default ProductPage
+export default HomePage
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
+export const HomePageQuery = graphql`
+  query HomePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title

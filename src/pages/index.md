@@ -1,6 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: 'homepage'
+path: /
 title:
 image: /img/home2.jpg
 heading: Gestion de patrimoine
