@@ -6,7 +6,7 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-import { Player } from '../components/video-react';
+import VideoPlayer from '../components/VideoPlayer';
 
 export const HomePageTemplate = ({
   image,
@@ -35,6 +35,7 @@ export const HomePageTemplate = ({
                   })`,
                 }}
               >
+              <VideoPlayer />
                 <h2
                   className="has-text-weight-bold is-size-1"
                   style={{
